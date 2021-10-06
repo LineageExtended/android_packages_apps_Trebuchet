@@ -378,4 +378,7 @@
     <!-- Extra bottom margin for overview TaskViews -->
     <dimen name="overview_task_extra_top_margin">40dp</dimen>
     <dimen name="overview_task_extra_bottom_margin">30dp</dimen>
+
+    <!-- For Themed icon support -->
+    <dimen name="theme_icon_size">24dp</dimen>
 </resources>
