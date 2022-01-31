@@ -359,4 +359,15 @@
     <dimen name="search_row_small_icon_size">32dp</dimen>
     <dimen name="padded_rounded_button_padding">8dp</dimen>
 
+    <!-- Search box radius -->
+    <dimen name="bg_searchbox_radius">58dp</dimen>
+
+    <!-- Overview scrolling scale animation -->
+    <dimen name="overview_scroll_scale">0.9</dimen>
+
+    <!-- Mid clear all button -->
+    <dimen name="mid_clear_all_radius">60dp</dimen>
+    <dimen name="mid_clear_all_ic_size">24dp</dimen>
+    <dimen name="mid_clear_all_bottom_margin_gesture">70dp</dimen>
+    <dimen name="mid_clear_all_bottom_margin_three_button">40dp</dimen>
 </resources>
