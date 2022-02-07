@@ -48,4 +48,7 @@
     <string name="trust_apps_help">Help</string>
     <string name="trust_apps_info_hidden">Hidden apps and their widgets are hidden from the drawer</string>
     <string name="trust_apps_info_protected">Protected apps require authentication to be opened from the launcher</string>
+
+    <!-- Memory info -->
+    <string name="meminfo_text">%1$s Available | %2$s Total</string>
 </resources>
